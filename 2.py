@@ -1,0 +1,6 @@
+mes=input('qual mes voce nasceu')
+dia=input('qual dia voce nasceu')
+ano=input('qual ano voce nasceu')
+print ('essa é sua data de nascimento',mes,dia,ano,'correto?')
+input('correto? sim ou não')
+print('cadastro concluido')
